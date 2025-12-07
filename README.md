@@ -1,6 +1,8 @@
 # Zip_game_learning
 39조 강화학습의 기초 조별 프로젝트 결과물
 
+
+
 [파일 구성 및 내용 가이드]
 
 A69049_강화학습 프로젝트 보고서.ppt: 프로젝트 보고서 파일
@@ -14,6 +16,7 @@ zip_v9 기준 4-12 테스트.ipynb: 최종 모델을 읽어온 후 각 그리드
 최종모델가중치.zip: 강화학습을 통해 학습시킨 모델의 가중치를 압축한 파일
 
 
+
 [코드 실행 전 가중치 모델 다운로드 필요]
 
 - Google Colab을 이용해 코드 작성 및 실행했기 때문에 Colab 환경에서 실행하는 것을 추천
@@ -23,6 +26,7 @@ zip_v9 기준 4-12 테스트.ipynb: 최종 모델을 읽어온 후 각 그리드
 - 기본 디렉토리는 아래와 같이 지정이 되어 있으며, 모델이 위치한 디렉토리가 다를 경우 코드 변경이 필요함
 
 (기본 디렉토리: GDRIVE_BASE_PATH = '/content/drive/MyDrive/Colab Notebooks/reinforcement learning/Final_Model_4to8')
+
 
 
 [코드 실행 설명]
